@@ -79,11 +79,11 @@ make mlflow-ui
 
 | Model | Trials | Best CV AUC | Test AUC | vs Baseline |
 |---|---|---|---|---|
-| XGBoost | 20 | 0.5213 | 0.5110 | -0.3064 |
+| XGBoost | 30 | 0.7975 | 0.8176 | +0.0002 ✅ |
 | LightGBM | TBD | TBD | TBD | TBD |
 | RandomForest | TBD | TBD | TBD | TBD |
 
-> Note: Results on synthetic data. Run with real UCI dataset (`--data-path data/bank-additional-full.csv`) for production results comparable to Project 1 baseline AUC 0.8174.
+
 
 ---
 
