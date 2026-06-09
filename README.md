@@ -6,7 +6,7 @@
 ![Optuna](https://img.shields.io/badge/Optuna-3.6-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-> **Part of the MLOps Portfolio Series** — Project 4 of 10  
+> **Part of the [MLOps Portfolio Series](https://github.com/jumma786/mlops-portfolio)** — Project 4 of 10  
 > Bayesian hyperparameter search with Optuna inside MLflow parent/child run structure. Each trial logged as a child run. Best trial auto-registers to MLflow Model Registry if it beats the baseline.
 
 ---
